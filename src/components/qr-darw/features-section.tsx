@@ -31,7 +31,7 @@ export function FeaturesSection() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl font-bold tracking-tight sm:text-4xl">Un generador de QR pensado para todos</h2>
           <p className="mt-4 text-lg text-muted-foreground">
-            Creamos esta herramienta con todo lo que necesitas y nada de lo que te molesta.
+            Creé esta herramienta con todo lo que necesitas y nada de lo que te molesta.
           </p>
         </div>
         <div className="mt-12 grid gap-8 md:grid-cols-2 lg:grid-cols-4">
