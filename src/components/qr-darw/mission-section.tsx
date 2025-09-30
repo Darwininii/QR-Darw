@@ -6,7 +6,7 @@ export function MissionSection() {
           Un Proyecto para una Web Abierta
         </h2>
         <p className="mt-6 text-lg text-muted-foreground">
-          Creemos en un internet donde las herramientas útiles son accesibles para todos. Por eso hemos construido este generador de códigos QR con tecnologías modernas y eficientes como Next.js y React, asegurando una experiencia ultrarrápida, segura y sin distracciones.
+          Creo en un internet donde las herramientas útiles son accesibles para todos. Por eso he construido este generador de códigos QR con tecnologías modernas y eficientes como Next.js y React, asegurando una experiencia ultrarrápida, segura y sin distracciones.
         </p>
       </div>
     </section>
